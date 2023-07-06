@@ -65,7 +65,7 @@ Tested With Kali linux only
 
 
 ```bash
-$ git clone 
+$ git clone https://github.com/surajanju/NO-Control
 $ cd NO-Control
 $ sudo bash install.sh
 $ sudo python3 -m pip install -r requirements.txt
