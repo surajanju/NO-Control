@@ -1,0 +1,1102 @@
+[Thu Jun 15 11:22:13 2023] PHP 8.2.2 Development Server (http://localhost:2525) started
+[Thu Jun 15 11:24:03 2023] [::1]:47972 Accepted
+[Thu Jun 15 11:24:03 2023] [::1]:47972 [302]: GET /
+[Thu Jun 15 11:24:03 2023] [::1]:47972 Closing
+[Thu Jun 15 11:24:04 2023] [::1]:47982 Accepted
+[Thu Jun 15 11:24:04 2023] [::1]:47982 [200]: GET /login.php
+[Thu Jun 15 11:24:04 2023] [::1]:47982 Closing
+[Thu Jun 15 11:24:07 2023] [::1]:47984 Accepted
+[Thu Jun 15 11:24:07 2023] [::1]:47984 [200]: GET /assets/css/bootstrap.min.css
+[Thu Jun 15 11:24:07 2023] [::1]:47984 Closing
+[Thu Jun 15 11:24:07 2023] [::1]:47996 Accepted
+[Thu Jun 15 11:24:07 2023] [::1]:47996 [200]: GET /assets/css/style.css
+[Thu Jun 15 11:24:07 2023] [::1]:47996 Closing
+[Thu Jun 15 11:24:14 2023] [::1]:51790 Accepted
+[Thu Jun 15 11:24:14 2023] [::1]:51790 [200]: POST /login.php
+[Thu Jun 15 11:24:14 2023] [::1]:51790 Closing
+[Thu Jun 15 11:24:15 2023] [::1]:51794 Accepted
+[Thu Jun 15 11:24:15 2023] [::1]:51794 [200]: GET /assets/css/bootstrap.min.css
+[Thu Jun 15 11:24:15 2023] [::1]:51794 Closing
+[Thu Jun 15 11:24:16 2023] [::1]:51802 Accepted
+[Thu Jun 15 11:24:16 2023] [::1]:51802 [200]: GET /assets/css/style.css
+[Thu Jun 15 11:24:16 2023] [::1]:51802 Closing
+[Thu Jun 15 11:24:18 2023] [::1]:51818 Accepted
+[Thu Jun 15 11:24:18 2023] [::1]:51818 [200]: GET /panel.php
+[Thu Jun 15 11:24:18 2023] [::1]:51818 Closing
+[Thu Jun 15 11:24:20 2023] [::1]:51830 Accepted
+[Thu Jun 15 11:24:20 2023] [::1]:51830 [200]: GET /assets/css/light-theme.min.css
+[Thu Jun 15 11:24:20 2023] [::1]:51830 Closing
+[Thu Jun 15 11:24:20 2023] [::1]:51840 Accepted
+[Thu Jun 15 11:24:20 2023] [::1]:51840 [200]: GET /assets/js/jquery.min.js
+[Thu Jun 15 11:24:20 2023] [::1]:51840 Closing
+[Thu Jun 15 11:24:20 2023] [::1]:51854 Accepted
+[Thu Jun 15 11:24:20 2023] [::1]:51854 [200]: GET /assets/css/bootstrap.min.css
+[Thu Jun 15 11:24:20 2023] [::1]:51854 Closing
+[Thu Jun 15 11:24:20 2023] [::1]:51870 Accepted
+[Thu Jun 15 11:24:20 2023] [::1]:51870 [200]: GET /assets/js/script.js
+[Thu Jun 15 11:24:20 2023] [::1]:51870 Closing
+[Thu Jun 15 11:24:20 2023] [::1]:51880 Accepted
+[Thu Jun 15 11:24:20 2023] [::1]:51880 [200]: GET /assets/js/sweetalert2.min.js
+[Thu Jun 15 11:24:20 2023] [::1]:51880 Closing
+[Thu Jun 15 11:24:20 2023] [::1]:51896 Accepted
+[Thu Jun 15 11:24:20 2023] [::1]:51896 [200]: GET /assets/js/growl-notification.min.js
+[Thu Jun 15 11:24:20 2023] [::1]:51896 Closing
+[Thu Jun 15 11:24:23 2023] [::1]:54984 Accepted
+[Thu Jun 15 11:24:23 2023] [::1]:54984 [200]: GET /Settings.json
+[Thu Jun 15 11:24:23 2023] [::1]:54984 Closing
+[Thu Jun 15 11:24:23 2023] [::1]:54988 Accepted
+[Thu Jun 15 11:24:23 2023] [::1]:54988 [200]: POST /list_templates.php
+[Thu Jun 15 11:24:23 2023] [::1]:54988 Closing
+[Thu Jun 15 11:24:26 2023] [::1]:54994 Accepted
+[Thu Jun 15 11:24:26 2023] [::1]:54994 [200]: POST /receiver.php
+[Thu Jun 15 11:24:26 2023] [::1]:54994 Closing
+[Thu Jun 15 11:24:28 2023] [::1]:55006 Accepted
+[Thu Jun 15 11:24:28 2023] [::1]:55006 [200]: POST /receiver.php
+[Thu Jun 15 11:24:28 2023] [::1]:55006 Closing
+[Thu Jun 15 11:24:30 2023] [::1]:55018 Accepted
+[Thu Jun 15 11:24:30 2023] [::1]:55018 [200]: POST /receiver.php
+[Thu Jun 15 11:24:30 2023] [::1]:55018 Closing
+[Thu Jun 15 11:24:32 2023] [::1]:46612 Accepted
+[Thu Jun 15 11:24:32 2023] [::1]:46612 [200]: POST /receiver.php
+[Thu Jun 15 11:24:32 2023] [::1]:46612 Closing
+[Thu Jun 15 11:24:34 2023] [::1]:46614 Accepted
+[Thu Jun 15 11:24:34 2023] [::1]:46614 [200]: POST /receiver.php
+[Thu Jun 15 11:24:34 2023] [::1]:46614 Closing
+[Thu Jun 15 11:24:36 2023] [::1]:46630 Accepted
+[Thu Jun 15 11:24:36 2023] [::1]:46630 [200]: POST /receiver.php
+[Thu Jun 15 11:24:36 2023] [::1]:46630 Closing
+[Thu Jun 15 11:24:38 2023] [::1]:46642 Accepted
+[Thu Jun 15 11:24:38 2023] [::1]:46642 [200]: POST /receiver.php
+[Thu Jun 15 11:24:38 2023] [::1]:46642 Closing
+[Thu Jun 15 11:24:40 2023] [::1]:46658 Accepted
+[Thu Jun 15 11:24:40 2023] [::1]:46658 [200]: POST /receiver.php
+[Thu Jun 15 11:24:40 2023] [::1]:46658 Closing
+[Thu Jun 15 11:24:42 2023] [::1]:38586 Accepted
+[Thu Jun 15 11:24:42 2023] [::1]:38586 [200]: POST /receiver.php
+[Thu Jun 15 11:24:42 2023] [::1]:38586 Closing
+[Thu Jun 15 11:24:44 2023] [::1]:38590 Accepted
+[Thu Jun 15 11:24:44 2023] [::1]:38590 [200]: POST /receiver.php
+[Thu Jun 15 11:24:44 2023] [::1]:38590 Closing
+[Thu Jun 15 11:24:46 2023] [::1]:38600 Accepted
+[Thu Jun 15 11:24:46 2023] [::1]:38600 [200]: POST /receiver.php
+[Thu Jun 15 11:24:46 2023] [::1]:38600 Closing
+[Thu Jun 15 11:24:48 2023] [::1]:38604 Accepted
+[Thu Jun 15 11:24:48 2023] [::1]:38604 [200]: POST /receiver.php
+[Thu Jun 15 11:24:48 2023] [::1]:38604 Closing
+[Thu Jun 15 11:24:50 2023] [::1]:38618 Accepted
+[Thu Jun 15 11:24:50 2023] [::1]:38618 [200]: POST /receiver.php
+[Thu Jun 15 11:24:50 2023] [::1]:38618 Closing
+[Thu Jun 15 11:24:54 2023] [::1]:42464 Accepted
+[Thu Jun 15 11:24:54 2023] [::1]:42464 [200]: POST /receiver.php
+[Thu Jun 15 11:24:54 2023] [::1]:42464 Closing
+[Thu Jun 15 11:24:55 2023] [::1]:42478 Accepted
+[Thu Jun 15 11:24:55 2023] [::1]:42478 [200]: POST /receiver.php
+[Thu Jun 15 11:24:55 2023] [::1]:42478 Closing
+[Thu Jun 15 11:24:57 2023] [::1]:42490 Accepted
+[Thu Jun 15 11:24:57 2023] [::1]:42490 [200]: POST /receiver.php
+[Thu Jun 15 11:24:57 2023] [::1]:42490 Closing
+[Thu Jun 15 11:25:06 2023] [::1]:46802 Accepted
+[Thu Jun 15 11:25:06 2023] [::1]:46802 [200]: POST /receiver.php
+[Thu Jun 15 11:25:06 2023] [::1]:46802 Closing
+[Thu Jun 15 11:25:14 2023] [::1]:57654 Accepted
+[Thu Jun 15 11:25:14 2023] [::1]:57654 [200]: POST /receiver.php
+[Thu Jun 15 11:25:14 2023] [::1]:57654 Closing
+[Thu Jun 15 11:25:17 2023] [::1]:57660 Accepted
+[Thu Jun 15 11:25:17 2023] [::1]:57660 [200]: POST /receiver.php
+[Thu Jun 15 11:25:17 2023] [::1]:57660 Closing
+[Thu Jun 15 11:25:22 2023] [::1]:58904 Accepted
+[Thu Jun 15 11:25:22 2023] [::1]:58904 [200]: POST /receiver.php
+[Thu Jun 15 11:25:22 2023] [::1]:58904 Closing
+[Thu Jun 15 11:25:25 2023] [::1]:58912 Accepted
+[Thu Jun 15 11:25:25 2023] [::1]:58912 [200]: POST /receiver.php
+[Thu Jun 15 11:25:25 2023] [::1]:58912 Closing
+[Thu Jun 15 11:25:29 2023] [::1]:58922 Accepted
+[Thu Jun 15 11:25:29 2023] [::1]:58922 [200]: POST /receiver.php
+[Thu Jun 15 11:25:29 2023] [::1]:58922 Closing
+[Thu Jun 15 11:25:31 2023] [::1]:58928 Accepted
+[Thu Jun 15 11:25:31 2023] [::1]:58928 [200]: POST /receiver.php
+[Thu Jun 15 11:25:31 2023] [::1]:58928 Closing
+[Thu Jun 15 11:25:33 2023] [::1]:37602 Accepted
+[Thu Jun 15 11:25:33 2023] [::1]:37602 [200]: POST /receiver.php
+[Thu Jun 15 11:25:33 2023] [::1]:37602 Closing
+[Thu Jun 15 11:25:36 2023] [::1]:37616 Accepted
+[Thu Jun 15 11:25:36 2023] [::1]:37616 [200]: POST /receiver.php
+[Thu Jun 15 11:25:36 2023] [::1]:37616 Closing
+[Thu Jun 15 11:25:38 2023] [::1]:37618 Accepted
+[Thu Jun 15 11:25:38 2023] [::1]:37618 [200]: POST /receiver.php
+[Thu Jun 15 11:25:38 2023] [::1]:37618 Closing
+[Thu Jun 15 11:25:40 2023] [::1]:37624 Accepted
+[Thu Jun 15 11:25:40 2023] [::1]:37624 [200]: POST /receiver.php
+[Thu Jun 15 11:25:40 2023] [::1]:37624 Closing
+[Thu Jun 15 11:25:44 2023] [::1]:60902 Accepted
+[Thu Jun 15 11:25:44 2023] [::1]:60902 [200]: POST /receiver.php
+[Thu Jun 15 11:25:44 2023] [::1]:60902 Closing
+[Thu Jun 15 11:25:51 2023] [::1]:60914 Accepted
+[Thu Jun 15 11:25:51 2023] [::1]:60914 [200]: POST /receiver.php
+[Thu Jun 15 11:25:51 2023] [::1]:60914 Closing
+[Thu Jun 15 11:25:53 2023] [::1]:41628 Accepted
+[Thu Jun 15 11:25:53 2023] [::1]:41628 [200]: POST /receiver.php
+[Thu Jun 15 11:25:53 2023] [::1]:41628 Closing
+[Thu Jun 15 11:25:55 2023] [::1]:41644 Accepted
+[Thu Jun 15 11:25:55 2023] [::1]:41644 [200]: POST /receiver.php
+[Thu Jun 15 11:25:55 2023] [::1]:41644 Closing
+[Thu Jun 15 11:25:58 2023] [::1]:41652 Accepted
+[Thu Jun 15 11:25:58 2023] [::1]:41652 [200]: POST /receiver.php
+[Thu Jun 15 11:25:58 2023] [::1]:41652 Closing
+[Thu Jun 15 11:26:01 2023] [::1]:41658 Accepted
+[Thu Jun 15 11:26:01 2023] [::1]:41658 [200]: POST /receiver.php
+[Thu Jun 15 11:26:01 2023] [::1]:41658 Closing
+[Thu Jun 15 11:26:04 2023] [::1]:55308 Accepted
+[Thu Jun 15 11:26:04 2023] [::1]:55308 [200]: POST /receiver.php
+[Thu Jun 15 11:26:04 2023] [::1]:55308 Closing
+[Thu Jun 15 11:26:12 2023] [::1]:55318 Accepted
+[Thu Jun 15 11:26:12 2023] [::1]:55318 [200]: POST /receiver.php
+[Thu Jun 15 11:26:12 2023] [::1]:55318 Closing
+[Thu Jun 15 11:26:20 2023] [::1]:33752 Accepted
+[Thu Jun 15 11:26:20 2023] [::1]:33752 [200]: POST /receiver.php
+[Thu Jun 15 11:26:20 2023] [::1]:33752 Closing
+[Thu Jun 15 11:26:22 2023] [::1]:33748 Accepted
+[Thu Jun 15 11:26:22 2023] [::1]:33748 [200]: POST /receiver.php
+[Thu Jun 15 11:26:22 2023] [::1]:33748 Closing
+[Thu Jun 15 11:26:26 2023] [::1]:33750 Accepted
+[Thu Jun 15 11:26:26 2023] [::1]:33750 [200]: POST /receiver.php
+[Thu Jun 15 11:26:26 2023] [::1]:33750 Closing
+[Thu Jun 15 11:26:29 2023] [::1]:33754 Accepted
+[Thu Jun 15 11:26:29 2023] [::1]:33754 [200]: POST /receiver.php
+[Thu Jun 15 11:26:29 2023] [::1]:33754 Closing
+[Thu Jun 15 11:26:33 2023] [::1]:54668 Accepted
+[Thu Jun 15 11:26:34 2023] [::1]:54668 [200]: POST /receiver.php
+[Thu Jun 15 11:26:34 2023] [::1]:54668 Closing
+[Thu Jun 15 11:26:37 2023] [::1]:54670 Accepted
+[Thu Jun 15 11:26:37 2023] [::1]:54670 [200]: POST /receiver.php
+[Thu Jun 15 11:26:37 2023] [::1]:54670 Closing
+[Thu Jun 15 11:26:40 2023] [::1]:54676 Accepted
+[Thu Jun 15 11:26:40 2023] [::1]:54676 [200]: POST /receiver.php
+[Thu Jun 15 11:26:40 2023] [::1]:54676 Closing
+[Thu Jun 15 11:26:43 2023] [::1]:51984 Accepted
+[Thu Jun 15 11:26:44 2023] [::1]:51984 [200]: POST /receiver.php
+[Thu Jun 15 11:26:44 2023] [::1]:51984 Closing
+[Thu Jun 15 11:26:46 2023] [::1]:51998 Accepted
+[Thu Jun 15 11:26:46 2023] [::1]:51998 [200]: POST /receiver.php
+[Thu Jun 15 11:26:46 2023] [::1]:51998 Closing
+[Thu Jun 15 11:26:50 2023] [::1]:52012 Accepted
+[Thu Jun 15 11:26:50 2023] [::1]:52012 [200]: POST /receiver.php
+[Thu Jun 15 11:26:50 2023] [::1]:52012 Closing
+[Thu Jun 15 11:26:56 2023] [::1]:33502 Accepted
+[Thu Jun 15 11:26:56 2023] [::1]:33504 Accepted
+[Thu Jun 15 11:26:56 2023] [::1]:33502 [200]: POST /receiver.php
+[Thu Jun 15 11:26:56 2023] [::1]:33502 Closing
+[Thu Jun 15 11:26:56 2023] [::1]:33504 [200]: POST /receiver.php
+[Thu Jun 15 11:26:56 2023] [::1]:33504 Closing
+[Thu Jun 15 11:27:02 2023] [::1]:33506 Accepted
+[Thu Jun 15 11:27:02 2023] [::1]:33506 [200]: POST /receiver.php
+[Thu Jun 15 11:27:02 2023] [::1]:33506 Closing
+[Thu Jun 15 11:27:05 2023] [::1]:57966 Accepted
+[Thu Jun 15 11:27:05 2023] [::1]:57966 [200]: POST /receiver.php
+[Thu Jun 15 11:27:05 2023] [::1]:57966 Closing
+[Thu Jun 15 11:27:12 2023] [::1]:45072 Accepted
+[Thu Jun 15 11:27:12 2023] [::1]:45072 [200]: POST /receiver.php
+[Thu Jun 15 11:27:12 2023] [::1]:45072 Closing
+[Thu Jun 15 11:27:13 2023] [::1]:45080 Accepted
+[Thu Jun 15 11:27:13 2023] [::1]:45080 [200]: POST /receiver.php
+[Thu Jun 15 11:27:13 2023] [::1]:45080 Closing
+[Thu Jun 15 11:27:18 2023] [::1]:45082 Accepted
+[Thu Jun 15 11:27:18 2023] [::1]:45082 [200]: POST /receiver.php
+[Thu Jun 15 11:27:18 2023] [::1]:45082 Closing
+[Thu Jun 15 11:27:25 2023] [::1]:33632 Accepted
+[Thu Jun 15 11:27:25 2023] [::1]:33632 [200]: POST /receiver.php
+[Thu Jun 15 11:27:25 2023] [::1]:33632 Closing
+[Thu Jun 15 11:27:29 2023] [::1]:33634 Accepted
+[Thu Jun 15 11:27:29 2023] [::1]:33634 [200]: POST /receiver.php
+[Thu Jun 15 11:27:29 2023] [::1]:33634 Closing
+[Thu Jun 15 11:27:30 2023] [::1]:33650 Accepted
+[Thu Jun 15 11:27:30 2023] [::1]:33650 [200]: POST /receiver.php
+[Thu Jun 15 11:27:30 2023] [::1]:33650 Closing
+[Thu Jun 15 11:27:34 2023] [::1]:49392 Accepted
+[Thu Jun 15 11:27:34 2023] [::1]:49392 [200]: POST /receiver.php
+[Thu Jun 15 11:27:34 2023] [::1]:49392 Closing
+[Thu Jun 15 11:27:38 2023] [::1]:49406 Accepted
+[Thu Jun 15 11:27:38 2023] [::1]:49406 [200]: POST /receiver.php
+[Thu Jun 15 11:27:38 2023] [::1]:49406 Closing
+[Thu Jun 15 11:27:42 2023] [::1]:35644 Accepted
+[Thu Jun 15 11:27:42 2023] [::1]:35644 [200]: POST /receiver.php
+[Thu Jun 15 11:27:42 2023] [::1]:35644 Closing
+[Thu Jun 15 11:27:45 2023] [::1]:35660 Accepted
+[Thu Jun 15 11:27:45 2023] [::1]:35660 [200]: POST /receiver.php
+[Thu Jun 15 11:27:45 2023] [::1]:35660 Closing
+[Thu Jun 15 11:27:48 2023] [::1]:35676 Accepted
+[Thu Jun 15 11:27:48 2023] [::1]:35676 [200]: POST /receiver.php
+[Thu Jun 15 11:27:48 2023] [::1]:35676 Closing
+[Thu Jun 15 11:27:50 2023] [::1]:35686 Accepted
+[Thu Jun 15 11:27:50 2023] [::1]:35686 [200]: POST /receiver.php
+[Thu Jun 15 11:27:50 2023] [::1]:35686 Closing
+[Thu Jun 15 11:27:57 2023] [::1]:50558 Accepted
+[Thu Jun 15 11:27:57 2023] [::1]:50558 [200]: POST /receiver.php
+[Thu Jun 15 11:27:57 2023] [::1]:50558 Closing
+[Thu Jun 15 11:27:58 2023] [::1]:50564 Accepted
+[Thu Jun 15 11:27:58 2023] [::1]:50564 [200]: POST /receiver.php
+[Thu Jun 15 11:27:58 2023] [::1]:50564 Closing
+[Thu Jun 15 11:27:59 2023] [::1]:50570 Accepted
+[Thu Jun 15 11:27:59 2023] [::1]:50570 [200]: POST /receiver.php
+[Thu Jun 15 11:27:59 2023] [::1]:50570 Closing
+[Thu Jun 15 11:28:01 2023] [::1]:50572 Accepted
+[Thu Jun 15 11:28:01 2023] [::1]:50572 [200]: POST /receiver.php
+[Thu Jun 15 11:28:01 2023] [::1]:50572 Closing
+[Thu Jun 15 11:28:02 2023] [::1]:58152 Accepted
+[Thu Jun 15 11:28:02 2023] [::1]:58152 [200]: POST /receiver.php
+[Thu Jun 15 11:28:02 2023] [::1]:58152 Closing
+[Thu Jun 15 11:28:06 2023] [::1]:58160 Accepted
+[Thu Jun 15 11:28:06 2023] [::1]:58160 [200]: POST /receiver.php
+[Thu Jun 15 11:28:06 2023] [::1]:58160 Closing
+[Thu Jun 15 11:28:07 2023] [::1]:58164 Accepted
+[Thu Jun 15 11:28:07 2023] [::1]:58164 [200]: POST /receiver.php
+[Thu Jun 15 11:28:07 2023] [::1]:58164 Closing
+[Thu Jun 15 11:28:12 2023] [::1]:47230 Accepted
+[Thu Jun 15 11:28:12 2023] [::1]:47230 [200]: POST /receiver.php
+[Thu Jun 15 11:28:12 2023] [::1]:47230 Closing
+[Thu Jun 15 11:28:17 2023] [::1]:47244 Accepted
+[Thu Jun 15 11:28:17 2023] [::1]:47244 [200]: POST /receiver.php
+[Thu Jun 15 11:28:17 2023] [::1]:47244 Closing
+[Thu Jun 15 11:28:18 2023] [::1]:47258 Accepted
+[Thu Jun 15 11:28:18 2023] [::1]:47258 [200]: POST /receiver.php
+[Thu Jun 15 11:28:18 2023] [::1]:47258 Closing
+[Thu Jun 15 11:28:20 2023] [::1]:47270 Accepted
+[Thu Jun 15 11:28:20 2023] [::1]:47270 [200]: POST /receiver.php
+[Thu Jun 15 11:28:20 2023] [::1]:47270 Closing
+[Thu Jun 15 11:28:26 2023] [::1]:49748 Accepted
+[Thu Jun 15 11:28:26 2023] [::1]:49748 [200]: POST /receiver.php
+[Thu Jun 15 11:28:26 2023] [::1]:49748 Closing
+[Thu Jun 15 11:28:29 2023] [::1]:49754 Accepted
+[Thu Jun 15 11:28:29 2023] [::1]:49754 [200]: POST /receiver.php
+[Thu Jun 15 11:28:29 2023] [::1]:49754 Closing
+[Thu Jun 15 11:28:32 2023] [::1]:39820 Accepted
+[Thu Jun 15 11:28:32 2023] [::1]:39820 [200]: POST /receiver.php
+[Thu Jun 15 11:28:32 2023] [::1]:39820 Closing
+[Thu Jun 15 11:28:37 2023] [::1]:39826 Accepted
+[Thu Jun 15 11:28:37 2023] [::1]:39826 [200]: POST /receiver.php
+[Thu Jun 15 11:28:37 2023] [::1]:39826 Closing
+[Thu Jun 15 11:28:40 2023] [::1]:39834 Accepted
+[Thu Jun 15 11:28:40 2023] [::1]:39834 [200]: POST /receiver.php
+[Thu Jun 15 11:28:40 2023] [::1]:39834 Closing
+[Thu Jun 15 11:28:44 2023] [::1]:38750 Accepted
+[Thu Jun 15 11:28:44 2023] [::1]:38750 [200]: POST /receiver.php
+[Thu Jun 15 11:28:44 2023] [::1]:38750 Closing
+[Thu Jun 15 11:28:48 2023] [::1]:38764 Accepted
+[Thu Jun 15 11:28:48 2023] [::1]:38764 [200]: POST /receiver.php
+[Thu Jun 15 11:28:48 2023] [::1]:38764 Closing
+[Thu Jun 15 11:28:51 2023] [::1]:38780 Accepted
+[Thu Jun 15 11:28:51 2023] [::1]:38780 [200]: POST /receiver.php
+[Thu Jun 15 11:28:51 2023] [::1]:38780 Closing
+[Thu Jun 15 11:28:55 2023] [::1]:35958 Accepted
+[Thu Jun 15 11:28:55 2023] [::1]:35958 [200]: POST /receiver.php
+[Thu Jun 15 11:28:55 2023] [::1]:35958 Closing
+[Thu Jun 15 11:28:57 2023] [::1]:35960 Accepted
+[Thu Jun 15 11:28:57 2023] [::1]:35960 [200]: POST /receiver.php
+[Thu Jun 15 11:28:57 2023] [::1]:35960 Closing
+[Thu Jun 15 11:28:59 2023] [::1]:35970 Accepted
+[Thu Jun 15 11:28:59 2023] [::1]:35970 [200]: POST /receiver.php
+[Thu Jun 15 11:28:59 2023] [::1]:35970 Closing
+[Thu Jun 15 11:29:01 2023] [::1]:35972 Accepted
+[Thu Jun 15 11:29:01 2023] [::1]:35972 [200]: POST /receiver.php
+[Thu Jun 15 11:29:01 2023] [::1]:35972 Closing
+[Thu Jun 15 11:29:03 2023] [::1]:60346 Accepted
+[Thu Jun 15 11:29:03 2023] [::1]:60346 [200]: POST /receiver.php
+[Thu Jun 15 11:29:03 2023] [::1]:60346 Closing
+[Thu Jun 15 11:29:06 2023] [::1]:60352 Accepted
+[Thu Jun 15 11:29:06 2023] [::1]:60352 [200]: POST /receiver.php
+[Thu Jun 15 11:29:06 2023] [::1]:60352 Closing
+[Thu Jun 15 11:29:07 2023] [::1]:60362 Accepted
+[Thu Jun 15 11:29:07 2023] [::1]:60362 [200]: POST /receiver.php
+[Thu Jun 15 11:29:07 2023] [::1]:60362 Closing
+[Thu Jun 15 11:29:09 2023] [::1]:60366 Accepted
+[Thu Jun 15 11:29:09 2023] [::1]:60366 [200]: POST /receiver.php
+[Thu Jun 15 11:29:09 2023] [::1]:60366 Closing
+[Thu Jun 15 11:29:11 2023] [::1]:60374 Accepted
+[Thu Jun 15 11:29:11 2023] [::1]:60374 [200]: POST /receiver.php
+[Thu Jun 15 11:29:11 2023] [::1]:60374 Closing
+[Thu Jun 15 11:29:13 2023] [::1]:33338 Accepted
+[Thu Jun 15 11:29:13 2023] [::1]:33338 [200]: POST /receiver.php
+[Thu Jun 15 11:29:13 2023] [::1]:33338 Closing
+[Thu Jun 15 11:29:16 2023] [::1]:33342 Accepted
+[Thu Jun 15 11:29:16 2023] [::1]:33342 [200]: POST /receiver.php
+[Thu Jun 15 11:29:16 2023] [::1]:33342 Closing
+[Thu Jun 15 11:29:19 2023] [::1]:33356 Accepted
+[Thu Jun 15 11:29:19 2023] [::1]:33356 [200]: POST /receiver.php
+[Thu Jun 15 11:29:19 2023] [::1]:33356 Closing
+[Thu Jun 15 11:29:22 2023] [::1]:40270 Accepted
+[Thu Jun 15 11:29:22 2023] [::1]:40270 [200]: POST /receiver.php
+[Thu Jun 15 11:29:22 2023] [::1]:40270 Closing
+[Thu Jun 15 11:29:23 2023] [::1]:40274 Accepted
+[Thu Jun 15 11:29:23 2023] [::1]:40274 [200]: POST /receiver.php
+[Thu Jun 15 11:29:23 2023] [::1]:40274 Closing
+[Thu Jun 15 11:29:24 2023] [::1]:40282 Accepted
+[Thu Jun 15 11:29:24 2023] [::1]:40282 [200]: POST /receiver.php
+[Thu Jun 15 11:29:24 2023] [::1]:40282 Closing
+[Thu Jun 15 11:29:25 2023] [::1]:40294 Accepted
+[Thu Jun 15 11:29:25 2023] [::1]:40294 [200]: POST /receiver.php
+[Thu Jun 15 11:29:25 2023] [::1]:40294 Closing
+[Thu Jun 15 11:29:28 2023] [::1]:40302 Accepted
+[Thu Jun 15 11:29:28 2023] [::1]:40302 [200]: POST /receiver.php
+[Thu Jun 15 11:29:28 2023] [::1]:40302 Closing
+[Thu Jun 15 11:29:30 2023] [::1]:40318 Accepted
+[Thu Jun 15 11:29:30 2023] [::1]:40318 [200]: POST /receiver.php
+[Thu Jun 15 11:29:30 2023] [::1]:40318 Closing
+[Thu Jun 15 11:29:31 2023] [::1]:40324 Accepted
+[Thu Jun 15 11:29:31 2023] [::1]:40324 [200]: POST /receiver.php
+[Thu Jun 15 11:29:31 2023] [::1]:40324 Closing
+[Thu Jun 15 11:29:33 2023] [::1]:38186 Accepted
+[Thu Jun 15 11:29:33 2023] [::1]:38186 [200]: POST /receiver.php
+[Thu Jun 15 11:29:33 2023] [::1]:38186 Closing
+[Thu Jun 15 11:29:35 2023] [::1]:38196 Accepted
+[Thu Jun 15 11:29:35 2023] [::1]:38196 [200]: POST /receiver.php
+[Thu Jun 15 11:29:35 2023] [::1]:38196 Closing
+[Thu Jun 15 11:29:37 2023] [::1]:38200 Accepted
+[Thu Jun 15 11:29:37 2023] [::1]:38200 [200]: POST /receiver.php
+[Thu Jun 15 11:29:37 2023] [::1]:38200 Closing
+[Thu Jun 15 11:29:39 2023] [::1]:38206 Accepted
+[Thu Jun 15 11:29:39 2023] [::1]:38206 [200]: POST /receiver.php
+[Thu Jun 15 11:29:39 2023] [::1]:38206 Closing
+[Thu Jun 15 11:29:41 2023] [::1]:38210 Accepted
+[Thu Jun 15 11:29:41 2023] [::1]:38210 [200]: POST /receiver.php
+[Thu Jun 15 11:29:41 2023] [::1]:38210 Closing
+[Thu Jun 15 11:29:43 2023] [::1]:60162 Accepted
+[Thu Jun 15 11:29:43 2023] [::1]:60162 [200]: POST /receiver.php
+[Thu Jun 15 11:29:43 2023] [::1]:60162 Closing
+[Thu Jun 15 11:29:45 2023] [::1]:60166 Accepted
+[Thu Jun 15 11:29:45 2023] [::1]:60166 [200]: POST /receiver.php
+[Thu Jun 15 11:29:45 2023] [::1]:60166 Closing
+[Thu Jun 15 11:29:47 2023] [::1]:60176 Accepted
+[Thu Jun 15 11:29:47 2023] [::1]:60176 [200]: POST /receiver.php
+[Thu Jun 15 11:29:47 2023] [::1]:60176 Closing
+[Thu Jun 15 11:29:49 2023] [::1]:60192 Accepted
+[Thu Jun 15 11:29:49 2023] [::1]:60192 [200]: POST /receiver.php
+[Thu Jun 15 11:29:49 2023] [::1]:60192 Closing
+[Thu Jun 15 11:29:51 2023] [::1]:60206 Accepted
+[Thu Jun 15 11:29:51 2023] [::1]:60206 [200]: POST /receiver.php
+[Thu Jun 15 11:29:51 2023] [::1]:60206 Closing
+[Thu Jun 15 11:29:53 2023] [::1]:54778 Accepted
+[Thu Jun 15 11:29:53 2023] [::1]:54778 [200]: POST /receiver.php
+[Thu Jun 15 11:29:53 2023] [::1]:54778 Closing
+[Thu Jun 15 11:29:55 2023] [::1]:54784 Accepted
+[Thu Jun 15 11:29:55 2023] [::1]:54784 [200]: POST /receiver.php
+[Thu Jun 15 11:29:55 2023] [::1]:54784 Closing
+[Thu Jun 15 11:29:57 2023] [::1]:54798 Accepted
+[Thu Jun 15 11:29:57 2023] [::1]:54798 [200]: POST /receiver.php
+[Thu Jun 15 11:29:57 2023] [::1]:54798 Closing
+[Thu Jun 15 11:29:59 2023] [::1]:54810 Accepted
+[Thu Jun 15 11:29:59 2023] [::1]:54810 [200]: POST /receiver.php
+[Thu Jun 15 11:29:59 2023] [::1]:54810 Closing
+[Thu Jun 15 11:30:01 2023] [::1]:54814 Accepted
+[Thu Jun 15 11:30:01 2023] [::1]:54814 [200]: POST /receiver.php
+[Thu Jun 15 11:30:01 2023] [::1]:54814 Closing
+[Thu Jun 15 11:30:03 2023] [::1]:45546 Accepted
+[Thu Jun 15 11:30:03 2023] [::1]:45546 [200]: POST /receiver.php
+[Thu Jun 15 11:30:03 2023] [::1]:45546 Closing
+[Thu Jun 15 11:30:05 2023] [::1]:45560 Accepted
+[Thu Jun 15 11:30:05 2023] [::1]:45560 [200]: POST /receiver.php
+[Thu Jun 15 11:30:05 2023] [::1]:45560 Closing
+[Thu Jun 15 11:30:07 2023] [::1]:45574 Accepted
+[Thu Jun 15 11:30:07 2023] [::1]:45574 [200]: POST /receiver.php
+[Thu Jun 15 11:30:07 2023] [::1]:45574 Closing
+[Thu Jun 15 11:30:09 2023] [::1]:45590 Accepted
+[Thu Jun 15 11:30:09 2023] [::1]:45590 [200]: POST /receiver.php
+[Thu Jun 15 11:30:09 2023] [::1]:45590 Closing
+[Thu Jun 15 11:30:11 2023] [::1]:45598 Accepted
+[Thu Jun 15 11:30:12 2023] [::1]:45598 [200]: POST /receiver.php
+[Thu Jun 15 11:30:12 2023] [::1]:45598 Closing
+[Thu Jun 15 11:30:13 2023] [::1]:51470 Accepted
+[Thu Jun 15 11:30:13 2023] [::1]:51470 [200]: POST /receiver.php
+[Thu Jun 15 11:30:13 2023] [::1]:51470 Closing
+[Thu Jun 15 11:30:15 2023] [::1]:51484 Accepted
+[Thu Jun 15 11:30:15 2023] [::1]:51484 [200]: POST /receiver.php
+[Thu Jun 15 11:30:15 2023] [::1]:51484 Closing
+[Thu Jun 15 11:30:17 2023] [::1]:51490 Accepted
+[Thu Jun 15 11:30:17 2023] [::1]:51490 [200]: POST /receiver.php
+[Thu Jun 15 11:30:17 2023] [::1]:51490 Closing
+[Thu Jun 15 11:30:19 2023] [::1]:51500 Accepted
+[Thu Jun 15 11:30:19 2023] [::1]:51500 [200]: POST /receiver.php
+[Thu Jun 15 11:30:19 2023] [::1]:51500 Closing
+[Thu Jun 15 11:30:22 2023] [::1]:35242 Accepted
+[Thu Jun 15 11:30:22 2023] [::1]:35242 [200]: POST /receiver.php
+[Thu Jun 15 11:30:22 2023] [::1]:35242 Closing
+[Thu Jun 15 11:30:23 2023] [::1]:35258 Accepted
+[Thu Jun 15 11:30:23 2023] [::1]:35258 [200]: POST /receiver.php
+[Thu Jun 15 11:30:23 2023] [::1]:35258 Closing
+[Thu Jun 15 11:30:26 2023] [::1]:35260 Accepted
+[Thu Jun 15 11:30:26 2023] [::1]:35260 [200]: POST /receiver.php
+[Thu Jun 15 11:30:26 2023] [::1]:35260 Closing
+[Thu Jun 15 11:30:27 2023] [::1]:35264 Accepted
+[Thu Jun 15 11:30:27 2023] [::1]:35264 [200]: POST /receiver.php
+[Thu Jun 15 11:30:27 2023] [::1]:35264 Closing
+[Thu Jun 15 11:30:29 2023] [::1]:35276 Accepted
+[Thu Jun 15 11:30:29 2023] [::1]:35276 [200]: POST /receiver.php
+[Thu Jun 15 11:30:29 2023] [::1]:35276 Closing
+[Thu Jun 15 11:30:31 2023] [::1]:35292 Accepted
+[Thu Jun 15 11:30:31 2023] [::1]:35292 [200]: POST /receiver.php
+[Thu Jun 15 11:30:31 2023] [::1]:35292 Closing
+[Thu Jun 15 11:30:33 2023] [::1]:47930 Accepted
+[Thu Jun 15 11:30:33 2023] [::1]:47930 [200]: POST /receiver.php
+[Thu Jun 15 11:30:33 2023] [::1]:47930 Closing
+[Thu Jun 15 11:30:35 2023] [::1]:47938 Accepted
+[Thu Jun 15 11:30:35 2023] [::1]:47938 [200]: POST /receiver.php
+[Thu Jun 15 11:30:35 2023] [::1]:47938 Closing
+[Thu Jun 15 11:30:37 2023] [::1]:47944 Accepted
+[Thu Jun 15 11:30:37 2023] [::1]:47944 [200]: POST /receiver.php
+[Thu Jun 15 11:30:37 2023] [::1]:47944 Closing
+[Thu Jun 15 11:30:39 2023] [::1]:47946 Accepted
+[Thu Jun 15 11:30:39 2023] [::1]:47946 [200]: POST /receiver.php
+[Thu Jun 15 11:30:39 2023] [::1]:47946 Closing
+[Thu Jun 15 11:30:41 2023] [::1]:47950 Accepted
+[Thu Jun 15 11:30:41 2023] [::1]:47950 [200]: POST /receiver.php
+[Thu Jun 15 11:30:41 2023] [::1]:47950 Closing
+[Thu Jun 15 11:30:43 2023] [::1]:34222 Accepted
+[Thu Jun 15 11:30:43 2023] [::1]:34222 [200]: POST /receiver.php
+[Thu Jun 15 11:30:43 2023] [::1]:34222 Closing
+[Thu Jun 15 11:30:45 2023] [::1]:34228 Accepted
+[Thu Jun 15 11:30:45 2023] [::1]:34228 [200]: POST /receiver.php
+[Thu Jun 15 11:30:45 2023] [::1]:34228 Closing
+[Thu Jun 15 11:30:46 2023] [::1]:34230 Accepted
+[Thu Jun 15 11:30:46 2023] [::1]:34230 [302]: GET /
+[Thu Jun 15 11:30:46 2023] [::1]:34230 Closing
+[Thu Jun 15 11:30:46 2023] [::1]:34236 Accepted
+[Thu Jun 15 11:30:46 2023] [::1]:34236 [200]: GET /login.php
+[Thu Jun 15 11:30:46 2023] [::1]:34236 Closing
+[Thu Jun 15 11:30:47 2023] [::1]:34252 Accepted
+[Thu Jun 15 11:30:47 2023] [::1]:34252 [200]: GET /assets/css/style.css
+[Thu Jun 15 11:30:47 2023] [::1]:34252 Closing
+[Thu Jun 15 11:30:47 2023] [::1]:34268 Accepted
+[Thu Jun 15 11:30:47 2023] [::1]:34268 [200]: GET /assets/css/bootstrap.min.css
+[Thu Jun 15 11:30:47 2023] [::1]:34268 Closing
+[Thu Jun 15 11:30:47 2023] [::1]:34280 Accepted
+[Thu Jun 15 11:30:47 2023] [::1]:34280 [200]: POST /receiver.php
+[Thu Jun 15 11:30:47 2023] [::1]:34280 Closing
+[Thu Jun 15 11:30:48 2023] [::1]:34286 Accepted
+[Thu Jun 15 11:30:48 2023] [::1]:34286 [404]: GET /favicon.ico - No such file or directory
+[Thu Jun 15 11:30:48 2023] [::1]:34286 Closing
+[Thu Jun 15 11:30:49 2023] [::1]:34292 Accepted
+[Thu Jun 15 11:30:49 2023] [::1]:34292 [200]: POST /receiver.php
+[Thu Jun 15 11:30:49 2023] [::1]:34292 Closing
+[Thu Jun 15 11:30:51 2023] [::1]:34304 Accepted
+[Thu Jun 15 11:30:51 2023] [::1]:34304 [200]: POST /receiver.php
+[Thu Jun 15 11:30:51 2023] [::1]:34304 Closing
+[Thu Jun 15 11:30:53 2023] [::1]:55162 Accepted
+[Thu Jun 15 11:30:53 2023] [::1]:55162 [200]: POST /receiver.php
+[Thu Jun 15 11:30:53 2023] [::1]:55162 Closing
+[Thu Jun 15 11:30:55 2023] [::1]:55172 Accepted
+[Thu Jun 15 11:30:55 2023] [::1]:55172 [200]: POST /receiver.php
+[Thu Jun 15 11:30:55 2023] [::1]:55172 Closing
+[Thu Jun 15 11:30:57 2023] [::1]:55180 Accepted
+[Thu Jun 15 11:30:57 2023] [::1]:55180 [200]: POST /receiver.php
+[Thu Jun 15 11:30:57 2023] [::1]:55180 Closing
+[Thu Jun 15 11:30:57 2023] [::1]:55188 Accepted
+[Thu Jun 15 11:30:57 2023] [::1]:55188 [200]: POST /login.php
+[Thu Jun 15 11:30:57 2023] [::1]:55188 Closing
+[Thu Jun 15 11:30:58 2023] [::1]:55200 Accepted
+[Thu Jun 15 11:30:58 2023] [::1]:55200 [200]: GET /assets/css/bootstrap.min.css
+[Thu Jun 15 11:30:58 2023] [::1]:55200 Closing
+[Thu Jun 15 11:30:58 2023] [::1]:55216 Accepted
+[Thu Jun 15 11:30:58 2023] [::1]:55216 [200]: GET /assets/css/style.css
+[Thu Jun 15 11:30:58 2023] [::1]:55216 Closing
+[Thu Jun 15 11:30:59 2023] [::1]:55226 Accepted
+[Thu Jun 15 11:30:59 2023] [::1]:55226 [200]: GET /panel.php
+[Thu Jun 15 11:30:59 2023] [::1]:55226 Closing
+[Thu Jun 15 11:30:59 2023] [::1]:55230 Accepted
+[Thu Jun 15 11:30:59 2023] [::1]:55230 [200]: POST /receiver.php
+[Thu Jun 15 11:30:59 2023] [::1]:55230 Closing
+[Thu Jun 15 11:30:59 2023] [::1]:55238 Accepted
+[Thu Jun 15 11:30:59 2023] [::1]:55238 [200]: GET /assets/css/bootstrap.min.css
+[Thu Jun 15 11:30:59 2023] [::1]:55238 Closing
+[Thu Jun 15 11:30:59 2023] [::1]:55244 Accepted
+[Thu Jun 15 11:30:59 2023] [::1]:55244 [200]: GET /assets/css/light-theme.min.css
+[Thu Jun 15 11:30:59 2023] [::1]:55244 Closing
+[Thu Jun 15 11:30:59 2023] [::1]:55256 Accepted
+[Thu Jun 15 11:30:59 2023] [::1]:55256 [200]: GET /assets/js/growl-notification.min.js
+[Thu Jun 15 11:30:59 2023] [::1]:55262 Accepted
+[Thu Jun 15 11:30:59 2023] [::1]:55276 Accepted
+[Thu Jun 15 11:30:59 2023] [::1]:55256 Closing
+[Thu Jun 15 11:30:59 2023] [::1]:55262 [200]: GET /assets/js/script.js
+[Thu Jun 15 11:30:59 2023] [::1]:55262 Closing
+[Thu Jun 15 11:30:59 2023] [::1]:55276 [200]: GET /assets/js/jquery.min.js
+[Thu Jun 15 11:30:59 2023] [::1]:55276 Closing
+[Thu Jun 15 11:30:59 2023] [::1]:55288 Accepted
+[Thu Jun 15 11:30:59 2023] [::1]:55288 [200]: GET /assets/js/sweetalert2.min.js
+[Thu Jun 15 11:30:59 2023] [::1]:55288 Closing
+[Thu Jun 15 11:31:00 2023] [::1]:55290 Accepted
+[Thu Jun 15 11:31:01 2023] [::1]:55290 [200]: POST /list_templates.php
+[Thu Jun 15 11:31:01 2023] [::1]:55290 Closing
+[Thu Jun 15 11:31:01 2023] [::1]:55300 Accepted
+[Thu Jun 15 11:31:01 2023] [::1]:55300 [200]: GET /Settings.json
+[Thu Jun 15 11:31:01 2023] [::1]:55300 Closing
+[Thu Jun 15 11:31:01 2023] [::1]:55314 Accepted
+[Thu Jun 15 11:31:01 2023] [::1]:55314 [200]: POST /receiver.php
+[Thu Jun 15 11:31:01 2023] [::1]:55314 Closing
+[Thu Jun 15 11:31:03 2023] [::1]:58464 Accepted
+[Thu Jun 15 11:31:03 2023] [::1]:58464 [200]: POST /receiver.php
+[Thu Jun 15 11:31:03 2023] [::1]:58464 Closing
+[Thu Jun 15 11:31:04 2023] [::1]:58480 Accepted
+[Thu Jun 15 11:31:04 2023] [::1]:58480 [200]: POST /receiver.php
+[Thu Jun 15 11:31:04 2023] [::1]:58480 Closing
+[Thu Jun 15 11:31:05 2023] [::1]:58496 Accepted
+[Thu Jun 15 11:31:05 2023] [::1]:58496 [200]: POST /receiver.php
+[Thu Jun 15 11:31:05 2023] [::1]:58496 Closing
+[Thu Jun 15 11:31:06 2023] [::1]:58498 Accepted
+[Thu Jun 15 11:31:06 2023] [::1]:58498 [200]: POST /receiver.php
+[Thu Jun 15 11:31:06 2023] [::1]:58498 Closing
+[Thu Jun 15 11:31:07 2023] [::1]:58500 Accepted
+[Thu Jun 15 11:31:07 2023] [::1]:58500 [200]: POST /receiver.php
+[Thu Jun 15 11:31:07 2023] [::1]:58500 Closing
+[Thu Jun 15 11:31:08 2023] [::1]:58504 Accepted
+[Thu Jun 15 11:31:08 2023] [::1]:58504 [200]: POST /receiver.php
+[Thu Jun 15 11:31:08 2023] [::1]:58504 Closing
+[Thu Jun 15 11:31:09 2023] [::1]:58520 Accepted
+[Thu Jun 15 11:31:09 2023] [::1]:58520 [200]: POST /receiver.php
+[Thu Jun 15 11:31:09 2023] [::1]:58520 Closing
+[Thu Jun 15 11:31:10 2023] [::1]:58526 Accepted
+[Thu Jun 15 11:31:10 2023] [::1]:58526 [200]: POST /receiver.php
+[Thu Jun 15 11:31:10 2023] [::1]:58526 Closing
+[Thu Jun 15 11:31:11 2023] [::1]:58542 Accepted
+[Thu Jun 15 11:31:11 2023] [::1]:58542 [200]: POST /receiver.php
+[Thu Jun 15 11:31:11 2023] [::1]:58542 Closing
+[Thu Jun 15 11:31:12 2023] [::1]:58550 Accepted
+[Thu Jun 15 11:31:12 2023] [::1]:58550 [200]: POST /receiver.php
+[Thu Jun 15 11:31:12 2023] [::1]:58550 Closing
+[Thu Jun 15 11:31:13 2023] [::1]:36096 Accepted
+[Thu Jun 15 11:31:13 2023] [::1]:36096 [200]: POST /receiver.php
+[Thu Jun 15 11:31:13 2023] [::1]:36096 Closing
+[Thu Jun 15 11:31:14 2023] [::1]:36102 Accepted
+[Thu Jun 15 11:31:14 2023] [::1]:36102 [200]: POST /receiver.php
+[Thu Jun 15 11:31:14 2023] [::1]:36102 Closing
+[Thu Jun 15 11:31:15 2023] [::1]:36114 Accepted
+[Thu Jun 15 11:31:15 2023] [::1]:36114 [200]: POST /receiver.php
+[Thu Jun 15 11:31:15 2023] [::1]:36114 Closing
+[Thu Jun 15 11:31:16 2023] [::1]:36120 Accepted
+[Thu Jun 15 11:31:16 2023] [::1]:36120 [200]: POST /receiver.php
+[Thu Jun 15 11:31:16 2023] [::1]:36120 Closing
+[Thu Jun 15 11:31:17 2023] [::1]:36126 Accepted
+[Thu Jun 15 11:31:17 2023] [::1]:36126 [200]: GET /templates/camera_temp/index.html
+[Thu Jun 15 11:31:17 2023] [::1]:36126 Closing
+[Thu Jun 15 11:31:17 2023] [::1]:36142 Accepted
+[Thu Jun 15 11:31:17 2023] [::1]:36142 [200]: POST /receiver.php
+[Thu Jun 15 11:31:17 2023] [::1]:36142 Closing
+[Thu Jun 15 11:31:17 2023] [::1]:36152 Accepted
+[Thu Jun 15 11:31:17 2023] [::1]:36152 [200]: GET /templates/camera_temp/all.css
+[Thu Jun 15 11:31:17 2023] [::1]:36152 Closing
+[Thu Jun 15 11:31:17 2023] [::1]:36164 Accepted
+[Thu Jun 15 11:31:17 2023] [::1]:36162 Accepted
+[Thu Jun 15 11:31:17 2023] [::1]:36164 [200]: GET /assets/js/loc.js
+[Thu Jun 15 11:31:17 2023] [::1]:36162 [200]: GET /assets/js/client.min.js
+[Thu Jun 15 11:31:17 2023] [::1]:36164 Closing
+[Thu Jun 15 11:31:17 2023] [::1]:36162 Closing
+[Thu Jun 15 11:31:17 2023] [::1]:36176 Accepted
+[Thu Jun 15 11:31:17 2023] [::1]:36188 Accepted
+[Thu Jun 15 11:31:17 2023] [::1]:36176 [200]: GET /assets/js/jquery.min.js
+[Thu Jun 15 11:31:17 2023] [::1]:36188 [200]: GET /templates/camera_temp/style.css
+[Thu Jun 15 11:31:17 2023] [::1]:36176 Closing
+[Thu Jun 15 11:31:17 2023] [::1]:36188 Closing
+[Thu Jun 15 11:31:18 2023] [::1]:36200 Accepted
+[Thu Jun 15 11:31:18 2023] [::1]:36200 [200]: POST /receiver.php
+[Thu Jun 15 11:31:18 2023] [::1]:36200 Closing
+[Thu Jun 15 11:31:19 2023] [::1]:36214 Accepted
+[Thu Jun 15 11:31:19 2023] [::1]:36214 [404]: GET /templates/webfonts/fa-solid-900.woff2 - No such file or directory
+[Thu Jun 15 11:31:19 2023] [::1]:36214 Closing
+[Thu Jun 15 11:31:19 2023] [::1]:36218 Accepted
+[Thu Jun 15 11:31:19 2023] [::1]:36218 [404]: GET /templates/webfonts/fa-solid-900.woff - No such file or directory
+[Thu Jun 15 11:31:19 2023] [::1]:36218 Closing
+[Thu Jun 15 11:31:20 2023] [::1]:36220 Accepted
+[Thu Jun 15 11:31:20 2023] [::1]:36220 [200]: POST /receiver.php
+[Thu Jun 15 11:31:20 2023] [::1]:36220 Closing
+[Thu Jun 15 11:31:20 2023] [::1]:36234 Accepted
+[Thu Jun 15 11:31:20 2023] [::1]:36234 [200]: POST /receiver.php
+[Thu Jun 15 11:31:20 2023] [::1]:36234 Closing
+[Thu Jun 15 11:31:20 2023] [::1]:36240 Accepted
+[Thu Jun 15 11:31:20 2023] [::1]:36240 [404]: GET /templates/webfonts/fa-solid-900.ttf - No such file or directory
+[Thu Jun 15 11:31:20 2023] [::1]:36240 Closing
+[Thu Jun 15 11:31:21 2023] [::1]:36256 Accepted
+[Thu Jun 15 11:31:21 2023] [::1]:36256 [200]: POST /receiver.php
+[Thu Jun 15 11:31:21 2023] [::1]:36256 Closing
+[Thu Jun 15 11:31:22 2023] [::1]:36266 Accepted
+[Thu Jun 15 11:31:22 2023] [::1]:36266 [200]: POST /receiver.php
+[Thu Jun 15 11:31:22 2023] [::1]:36266 Closing
+[Thu Jun 15 11:31:23 2023] [::1]:43222 Accepted
+[Thu Jun 15 11:31:23 2023] [::1]:43222 [200]: POST /receiver.php
+[Thu Jun 15 11:31:23 2023] [::1]:43222 Closing
+[Thu Jun 15 11:31:24 2023] [::1]:43238 Accepted
+[Thu Jun 15 11:31:24 2023] [::1]:43238 [200]: POST /receiver.php
+[Thu Jun 15 11:31:24 2023] [::1]:43238 Closing
+[Thu Jun 15 11:31:25 2023] [::1]:43240 Accepted
+[Thu Jun 15 11:31:25 2023] [::1]:43240 [200]: POST /receiver.php
+[Thu Jun 15 11:31:25 2023] [::1]:43240 Closing
+[Thu Jun 15 11:31:26 2023] [::1]:43250 Accepted
+[Thu Jun 15 11:31:26 2023] [::1]:43250 [200]: POST /receiver.php
+[Thu Jun 15 11:31:26 2023] [::1]:43250 Closing
+[Thu Jun 15 11:31:27 2023] [::1]:43254 Accepted
+[Thu Jun 15 11:31:27 2023] [::1]:43254 [200]: POST /receiver.php
+[Thu Jun 15 11:31:27 2023] [::1]:43254 Closing
+[Thu Jun 15 11:31:28 2023] [::1]:43262 Accepted
+[Thu Jun 15 11:31:28 2023] [::1]:43262 [200]: POST /receiver.php
+[Thu Jun 15 11:31:28 2023] [::1]:43262 Closing
+[Thu Jun 15 11:31:29 2023] [::1]:43268 Accepted
+[Thu Jun 15 11:31:29 2023] [::1]:43268 [200]: POST /receiver.php
+[Thu Jun 15 11:31:29 2023] [::1]:43268 Closing
+[Thu Jun 15 11:31:30 2023] [::1]:43276 Accepted
+[Thu Jun 15 11:31:30 2023] [::1]:43276 [200]: POST /receiver.php
+[Thu Jun 15 11:31:30 2023] [::1]:43276 Closing
+[Thu Jun 15 11:31:31 2023] [::1]:43278 Accepted
+[Thu Jun 15 11:31:31 2023] [::1]:43278 [200]: POST /templates/camera_temp/handler.php
+[Thu Jun 15 11:31:31 2023] [::1]:43278 Closing
+[Thu Jun 15 11:31:31 2023] [::1]:43290 Accepted
+[Thu Jun 15 11:31:31 2023] [::1]:43290 [200]: POST /receiver.php
+[Thu Jun 15 11:31:31 2023] [::1]:43290 Closing
+[Thu Jun 15 11:31:32 2023] [::1]:43294 Accepted
+[Thu Jun 15 11:31:32 2023] [::1]:43294 [200]: POST /receiver.php
+[Thu Jun 15 11:31:32 2023] [::1]:43294 Closing
+[Thu Jun 15 11:31:32 2023] [::1]:58610 Accepted
+[Thu Jun 15 11:31:32 2023] [::1]:58610 [200]: GET /panel.php
+[Thu Jun 15 11:31:32 2023] [::1]:58610 Closing
+[Thu Jun 15 11:31:33 2023] [::1]:58614 Accepted
+[Thu Jun 15 11:31:38 2023] [::1]:58614 [200]: POST /templates/camera_temp/post.php
+[Thu Jun 15 11:31:38 2023] [::1]:58614 Closing
+[Thu Jun 15 11:31:38 2023] [::1]:58626 Accepted
+[Thu Jun 15 11:31:38 2023] [::1]:58628 Accepted
+[Thu Jun 15 11:31:38 2023] [::1]:58626 [200]: GET /assets/css/bootstrap.min.css
+[Thu Jun 15 11:31:38 2023] [::1]:58628 [200]: GET /assets/css/light-theme.min.css
+[Thu Jun 15 11:31:38 2023] [::1]:58626 Closing
+[Thu Jun 15 11:31:38 2023] [::1]:58628 Closing
+[Thu Jun 15 11:31:39 2023] [::1]:58638 Accepted
+[Thu Jun 15 11:31:39 2023] [::1]:58638 [200]: GET /assets/js/jquery.min.js
+[Thu Jun 15 11:31:39 2023] [::1]:58638 Closing
+[Thu Jun 15 11:31:40 2023] [::1]:58648 Accepted
+[Thu Jun 15 11:31:40 2023] [::1]:58648 [200]: GET /assets/js/script.js
+[Thu Jun 15 11:31:40 2023] [::1]:58648 Closing
+[Thu Jun 15 11:31:40 2023] [::1]:58652 Accepted
+[Thu Jun 15 11:31:40 2023] [::1]:58652 [200]: GET /assets/js/sweetalert2.min.js
+[Thu Jun 15 11:31:40 2023] [::1]:58652 Closing
+[Thu Jun 15 11:31:40 2023] [::1]:58658 Accepted
+[Thu Jun 15 11:31:40 2023] [::1]:58658 [200]: GET /assets/js/growl-notification.min.js
+[Thu Jun 15 11:31:40 2023] [::1]:58658 Closing
+[Thu Jun 15 11:31:42 2023] [::1]:58668 Accepted
+[Thu Jun 15 11:31:49 2023] [::1]:58668 [200]: POST /templates/camera_temp/post.php
+[Thu Jun 15 11:31:49 2023] [::1]:58668 Closing
+[Thu Jun 15 11:31:49 2023] [::1]:37110 Accepted
+[Thu Jun 15 11:31:49 2023] [::1]:37110 [200]: POST /list_templates.php
+[Thu Jun 15 11:31:49 2023] [::1]:37110 Closing
+[Thu Jun 15 11:31:49 2023] [::1]:37116 Accepted
+[Thu Jun 15 11:31:49 2023] [::1]:37116 [200]: GET /Settings.json
+[Thu Jun 15 11:31:49 2023] [::1]:37116 Closing
+[Thu Jun 15 11:31:50 2023] [::1]:37120 Accepted
+[Thu Jun 15 11:31:50 2023] [::1]:37120 [200]: POST /receiver.php
+[Thu Jun 15 11:31:50 2023] [::1]:37120 Closing
+[Thu Jun 15 11:31:51 2023] [::1]:37128 Accepted
+[Thu Jun 15 11:31:53 2023] [::1]:41810 Accepted
+[Thu Jun 15 11:31:53 2023] [::1]:41810 [200]: POST /receiver.php
+[Thu Jun 15 11:31:53 2023] [::1]:41810 Closing
+[Thu Jun 15 11:31:54 2023] [::1]:37128 [200]: POST /templates/camera_temp/post.php
+[Thu Jun 15 11:31:54 2023] [::1]:37128 Closing
+[Thu Jun 15 11:31:54 2023] [::1]:41822 Accepted
+[Thu Jun 15 11:31:54 2023] [::1]:41822 [200]: POST /receiver.php
+[Thu Jun 15 11:31:54 2023] [::1]:41822 Closing
+[Thu Jun 15 11:31:56 2023] [::1]:41828 Accepted
+[Thu Jun 15 11:31:56 2023] [::1]:41828 [200]: POST /receiver.php
+[Thu Jun 15 11:31:56 2023] [::1]:41828 Closing
+[Thu Jun 15 11:31:58 2023] [::1]:41844 Accepted
+[Thu Jun 15 11:31:58 2023] [::1]:41844 [200]: POST /receiver.php
+[Thu Jun 15 11:31:58 2023] [::1]:41844 Closing
+[Thu Jun 15 11:31:59 2023] [::1]:41856 Accepted
+[Thu Jun 15 11:32:01 2023] [::1]:41868 Accepted
+[Thu Jun 15 11:32:01 2023] [::1]:41868 [200]: POST /receiver.php
+[Thu Jun 15 11:32:01 2023] [::1]:41868 Closing
+[Thu Jun 15 11:32:02 2023] [::1]:41856 [200]: POST /templates/camera_temp/post.php
+[Thu Jun 15 11:32:02 2023] [::1]:41856 Closing
+[Thu Jun 15 11:32:02 2023] [::1]:57488 Accepted
+[Thu Jun 15 11:32:02 2023] [::1]:57488 [200]: POST /receiver.php
+[Thu Jun 15 11:32:02 2023] [::1]:57488 Closing
+[Thu Jun 15 11:32:04 2023] [::1]:57490 Accepted
+[Thu Jun 15 11:32:04 2023] [::1]:57490 [200]: POST /receiver.php
+[Thu Jun 15 11:32:04 2023] [::1]:57490 Closing
+[Thu Jun 15 11:32:06 2023] [::1]:57496 Accepted
+[Thu Jun 15 11:32:06 2023] [::1]:57496 [200]: POST /receiver.php
+[Thu Jun 15 11:32:06 2023] [::1]:57496 Closing
+[Thu Jun 15 11:32:08 2023] [::1]:57512 Accepted
+[Thu Jun 15 11:32:08 2023] [::1]:57512 [200]: POST /receiver.php
+[Thu Jun 15 11:32:08 2023] [::1]:57512 Closing
+[Thu Jun 15 11:32:08 2023] [::1]:57516 Accepted
+[Thu Jun 15 11:32:12 2023] [::1]:46870 Accepted
+[Thu Jun 15 11:32:12 2023] [::1]:46870 [200]: POST /receiver.php
+[Thu Jun 15 11:32:12 2023] [::1]:46870 Closing
+[Thu Jun 15 11:32:12 2023] [::1]:46872 Accepted
+[Thu Jun 15 11:32:12 2023] [::1]:46872 [200]: POST /receiver.php
+[Thu Jun 15 11:32:12 2023] [::1]:46872 Closing
+[Thu Jun 15 11:32:14 2023] [::1]:57516 [200]: POST /templates/camera_temp/post.php
+[Thu Jun 15 11:32:14 2023] [::1]:57516 Closing
+[Thu Jun 15 11:32:14 2023] [::1]:46884 Accepted
+[Thu Jun 15 11:32:14 2023] [::1]:46884 [200]: POST /receiver.php
+[Thu Jun 15 11:32:14 2023] [::1]:46884 Closing
+[Thu Jun 15 11:32:16 2023] [::1]:46890 Accepted
+[Thu Jun 15 11:32:16 2023] [::1]:46890 [200]: POST /receiver.php
+[Thu Jun 15 11:32:16 2023] [::1]:46890 Closing
+[Thu Jun 15 11:32:18 2023] [::1]:46894 Accepted
+[Thu Jun 15 11:32:24 2023] [::1]:49210 Accepted
+[Thu Jun 15 11:32:24 2023] [::1]:49210 [200]: POST /receiver.php
+[Thu Jun 15 11:32:24 2023] [::1]:49210 Closing
+[Thu Jun 15 11:32:25 2023] [::1]:49220 Accepted
+[Thu Jun 15 11:32:25 2023] [::1]:49218 Accepted
+[Thu Jun 15 11:32:25 2023] [::1]:49218 [200]: POST /receiver.php
+[Thu Jun 15 11:32:25 2023] [::1]:49218 Closing
+[Thu Jun 15 11:32:25 2023] [::1]:49220 [200]: POST /receiver.php
+[Thu Jun 15 11:32:25 2023] [::1]:49220 Closing
+[Thu Jun 15 11:32:26 2023] [::1]:49242 Accepted
+[Thu Jun 15 11:32:26 2023] [::1]:49244 Accepted
+[Thu Jun 15 11:32:26 2023] [::1]:49242 [200]: GET /panel.php
+[Thu Jun 15 11:32:26 2023] [::1]:49242 Closing
+[Thu Jun 15 11:32:26 2023] [::1]:49244 [200]: POST /receiver.php
+[Thu Jun 15 11:32:26 2023] [::1]:49244 Closing
+[Thu Jun 15 11:32:30 2023] [::1]:49250 Accepted
+[Thu Jun 15 11:32:30 2023] [::1]:49250 [200]: POST /receiver.php
+[Thu Jun 15 11:32:30 2023] [::1]:49250 Closing
+[Thu Jun 15 11:32:32 2023] [::1]:55348 Accepted
+[Thu Jun 15 11:32:32 2023] [::1]:55348 [200]: POST /receiver.php
+[Thu Jun 15 11:32:32 2023] [::1]:55348 Closing
+[Thu Jun 15 11:32:33 2023] [::1]:55356 Accepted
+[Thu Jun 15 11:32:33 2023] [::1]:55356 [200]: POST /list_templates.php
+[Thu Jun 15 11:32:33 2023] [::1]:55356 Closing
+[Thu Jun 15 11:32:34 2023] [::1]:55366 Accepted
+[Thu Jun 15 11:32:34 2023] [::1]:46894 [200]: POST /templates/camera_temp/post.php
+[Thu Jun 15 11:32:34 2023] [::1]:46894 Closing
+[Thu Jun 15 11:32:34 2023] [::1]:55368 Accepted
+[Thu Jun 15 11:32:34 2023] [::1]:55366 [200]: POST /receiver.php
+[Thu Jun 15 11:32:34 2023] [::1]:55366 Closing
+[Thu Jun 15 11:32:34 2023] [::1]:55378 Accepted
+[Thu Jun 15 11:32:34 2023] [::1]:55368 [200]: POST /receiver.php
+[Thu Jun 15 11:32:34 2023] [::1]:55368 Closing
+[Thu Jun 15 11:32:34 2023] [::1]:55392 Accepted
+[Thu Jun 15 11:32:34 2023] [::1]:55378 [200]: POST /receiver.php
+[Thu Jun 15 11:32:34 2023] [::1]:55378 Closing
+[Thu Jun 15 11:32:34 2023] [::1]:55402 Accepted
+[Thu Jun 15 11:32:34 2023] [::1]:55392 [200]: POST /receiver.php
+[Thu Jun 15 11:32:34 2023] [::1]:55392 Closing
+[Thu Jun 15 11:32:34 2023] [::1]:55402 [200]: POST /receiver.php
+[Thu Jun 15 11:32:34 2023] [::1]:55402 Closing
+[Thu Jun 15 11:32:34 2023] [::1]:55416 Accepted
+[Thu Jun 15 11:32:34 2023] [::1]:55416 [200]: POST /receiver.php
+[Thu Jun 15 11:32:34 2023] [::1]:55416 Closing
+[Thu Jun 15 11:32:37 2023] [::1]:55418 Accepted
+[Thu Jun 15 11:32:37 2023] [::1]:55418 [200]: POST /receiver.php
+[Thu Jun 15 11:32:37 2023] [::1]:55418 Closing
+[Thu Jun 15 11:32:37 2023] [::1]:55420 Accepted
+[Thu Jun 15 11:32:37 2023] [::1]:55420 [200]: POST /receiver.php
+[Thu Jun 15 11:32:37 2023] [::1]:55420 Closing
+[Thu Jun 15 11:32:38 2023] [::1]:55434 Accepted
+[Thu Jun 15 11:32:38 2023] [::1]:55434 [200]: POST /receiver.php
+[Thu Jun 15 11:32:38 2023] [::1]:55434 Closing
+[Thu Jun 15 11:32:38 2023] [::1]:55448 Accepted
+[Thu Jun 15 11:32:38 2023] [::1]:55448 [200]: POST /receiver.php
+[Thu Jun 15 11:32:38 2023] [::1]:55448 Closing
+[Thu Jun 15 11:32:40 2023] [::1]:55464 Accepted
+[Thu Jun 15 11:32:40 2023] [::1]:55464 [200]: POST /receiver.php
+[Thu Jun 15 11:32:40 2023] [::1]:55464 Closing
+[Thu Jun 15 11:32:40 2023] [::1]:55476 Accepted
+[Thu Jun 15 11:32:40 2023] [::1]:55476 [200]: POST /receiver.php
+[Thu Jun 15 11:32:40 2023] [::1]:55476 Closing
+[Thu Jun 15 11:32:42 2023] [::1]:53876 Accepted
+[Thu Jun 15 11:32:42 2023] [::1]:53876 [200]: POST /receiver.php
+[Thu Jun 15 11:32:42 2023] [::1]:53876 Closing
+[Thu Jun 15 11:32:44 2023] [::1]:53888 Accepted
+[Thu Jun 15 11:32:44 2023] [::1]:53888 [200]: POST /receiver.php
+[Thu Jun 15 11:32:44 2023] [::1]:53888 Closing
+[Thu Jun 15 11:32:46 2023] [::1]:53896 Accepted
+[Thu Jun 15 11:32:46 2023] [::1]:53896 [200]: POST /receiver.php
+[Thu Jun 15 11:32:46 2023] [::1]:53896 Closing
+[Thu Jun 15 11:32:48 2023] [::1]:53904 Accepted
+[Thu Jun 15 11:32:48 2023] [::1]:53904 [200]: POST /receiver.php
+[Thu Jun 15 11:32:48 2023] [::1]:53904 Closing
+[Thu Jun 15 11:32:50 2023] [::1]:53918 Accepted
+[Thu Jun 15 11:32:50 2023] [::1]:53918 [200]: POST /receiver.php
+[Thu Jun 15 11:32:50 2023] [::1]:53918 Closing
+[Thu Jun 15 11:32:52 2023] [::1]:54322 Accepted
+[Thu Jun 15 11:32:52 2023] [::1]:54322 [200]: POST /receiver.php
+[Thu Jun 15 11:32:52 2023] [::1]:54322 Closing
+[Thu Jun 15 11:32:53 2023] [::1]:54324 Accepted
+[Thu Jun 15 11:32:53 2023] [::1]:54324 [200]: GET /panel.php
+[Thu Jun 15 11:32:53 2023] [::1]:54324 Closing
+[Thu Jun 15 11:32:53 2023] [::1]:54326 Accepted
+[Thu Jun 15 11:32:53 2023] [::1]:54326 [200]: GET /assets/css/bootstrap.min.css
+[Thu Jun 15 11:32:53 2023] [::1]:54326 Closing
+[Thu Jun 15 11:32:53 2023] [::1]:54328 Accepted
+[Thu Jun 15 11:32:53 2023] [::1]:54328 [200]: GET /assets/css/light-theme.min.css
+[Thu Jun 15 11:32:53 2023] [::1]:54328 Closing
+[Thu Jun 15 11:32:53 2023] [::1]:54330 Accepted
+[Thu Jun 15 11:32:53 2023] [::1]:54330 [200]: GET /assets/js/jquery.min.js
+[Thu Jun 15 11:32:53 2023] [::1]:54330 Closing
+[Thu Jun 15 11:32:53 2023] [::1]:54336 Accepted
+[Thu Jun 15 11:32:53 2023] [::1]:54338 Accepted
+[Thu Jun 15 11:32:53 2023] [::1]:54350 Accepted
+[Thu Jun 15 11:32:53 2023] [::1]:54336 [200]: GET /assets/js/growl-notification.min.js
+[Thu Jun 15 11:32:53 2023] [::1]:54338 [200]: GET /assets/js/sweetalert2.min.js
+[Thu Jun 15 11:32:53 2023] [::1]:54350 [200]: GET /assets/js/script.js
+[Thu Jun 15 11:32:53 2023] [::1]:54336 Closing
+[Thu Jun 15 11:32:53 2023] [::1]:54338 Closing
+[Thu Jun 15 11:32:53 2023] [::1]:54350 Closing
+[Thu Jun 15 11:32:54 2023] [::1]:54362 Accepted
+[Thu Jun 15 11:32:54 2023] [::1]:54362 [200]: GET /Settings.json
+[Thu Jun 15 11:32:54 2023] [::1]:54362 Closing
+[Thu Jun 15 11:32:54 2023] [::1]:54372 Accepted
+[Thu Jun 15 11:32:54 2023] [::1]:54372 [200]: POST /list_templates.php
+[Thu Jun 15 11:32:54 2023] [::1]:54372 Closing
+[Thu Jun 15 11:32:57 2023] [::1]:54374 Accepted
+[Thu Jun 15 11:32:57 2023] [::1]:54374 [200]: POST /receiver.php
+[Thu Jun 15 11:32:57 2023] [::1]:54374 Closing
+[Thu Jun 15 11:32:59 2023] [::1]:54376 Accepted
+[Thu Jun 15 11:32:59 2023] [::1]:54376 [200]: POST /receiver.php
+[Thu Jun 15 11:32:59 2023] [::1]:54376 Closing
+[Thu Jun 15 11:33:01 2023] [::1]:54390 Accepted
+[Thu Jun 15 11:33:01 2023] [::1]:54390 [200]: POST /receiver.php
+[Thu Jun 15 11:33:01 2023] [::1]:54390 Closing
+[Thu Jun 15 11:33:04 2023] [::1]:49458 Accepted
+[Thu Jun 15 11:33:04 2023] [::1]:49458 [200]: POST /receiver.php
+[Thu Jun 15 11:33:04 2023] [::1]:49458 Closing
+[Thu Jun 15 11:33:05 2023] [::1]:49472 Accepted
+[Thu Jun 15 11:33:05 2023] [::1]:49472 [200]: POST /receiver.php
+[Thu Jun 15 11:33:05 2023] [::1]:49472 Closing
+[Thu Jun 15 11:33:07 2023] [::1]:49482 Accepted
+[Thu Jun 15 11:33:07 2023] [::1]:49482 [200]: POST /receiver.php
+[Thu Jun 15 11:33:07 2023] [::1]:49482 Closing
+[Thu Jun 15 11:33:09 2023] [::1]:49492 Accepted
+[Thu Jun 15 11:33:09 2023] [::1]:49492 [200]: POST /receiver.php
+[Thu Jun 15 11:33:09 2023] [::1]:49492 Closing
+[Thu Jun 15 11:33:11 2023] [::1]:49506 Accepted
+[Thu Jun 15 11:33:11 2023] [::1]:49506 [200]: POST /receiver.php
+[Thu Jun 15 11:33:11 2023] [::1]:49506 Closing
+[Thu Jun 15 11:33:13 2023] [::1]:42884 Accepted
+[Thu Jun 15 11:33:13 2023] [::1]:42884 [200]: POST /receiver.php
+[Thu Jun 15 11:33:13 2023] [::1]:42884 Closing
+[Thu Jun 15 11:33:15 2023] [::1]:42886 Accepted
+[Thu Jun 15 11:33:15 2023] [::1]:42886 [200]: POST /receiver.php
+[Thu Jun 15 11:33:15 2023] [::1]:42886 Closing
+[Thu Jun 15 11:33:17 2023] [::1]:42894 Accepted
+[Thu Jun 15 11:33:17 2023] [::1]:42894 [200]: POST /receiver.php
+[Thu Jun 15 11:33:17 2023] [::1]:42894 Closing
+[Thu Jun 15 11:33:19 2023] [::1]:42902 Accepted
+[Thu Jun 15 11:33:19 2023] [::1]:42902 [200]: POST /receiver.php
+[Thu Jun 15 11:33:19 2023] [::1]:42902 Closing
+[Thu Jun 15 11:33:22 2023] [::1]:42918 Accepted
+[Thu Jun 15 11:33:22 2023] [::1]:42918 [200]: POST /receiver.php
+[Thu Jun 15 11:33:22 2023] [::1]:42918 Closing
+[Thu Jun 15 11:33:23 2023] [::1]:45158 Accepted
+[Thu Jun 15 11:33:23 2023] [::1]:45158 [200]: POST /receiver.php
+[Thu Jun 15 11:33:23 2023] [::1]:45158 Closing
+[Thu Jun 15 11:33:25 2023] [::1]:45168 Accepted
+[Thu Jun 15 11:33:25 2023] [::1]:45168 [200]: POST /receiver.php
+[Thu Jun 15 11:33:25 2023] [::1]:45168 Closing
+[Thu Jun 15 11:33:27 2023] [::1]:45174 Accepted
+[Thu Jun 15 11:33:27 2023] [::1]:45174 [200]: POST /receiver.php
+[Thu Jun 15 11:33:27 2023] [::1]:45174 Closing
+[Thu Jun 15 11:33:30 2023] [::1]:45182 Accepted
+[Thu Jun 15 11:33:30 2023] [::1]:45182 [200]: POST /receiver.php
+[Thu Jun 15 11:33:30 2023] [::1]:45182 Closing
+[Thu Jun 15 11:33:31 2023] [::1]:45184 Accepted
+[Thu Jun 15 11:33:31 2023] [::1]:45184 [200]: POST /receiver.php
+[Thu Jun 15 11:33:31 2023] [::1]:45184 Closing
+[Thu Jun 15 11:33:33 2023] [::1]:41542 Accepted
+[Thu Jun 15 11:33:33 2023] [::1]:41542 [200]: POST /receiver.php
+[Thu Jun 15 11:33:33 2023] [::1]:41542 Closing
+[Thu Jun 15 11:33:35 2023] [::1]:41548 Accepted
+[Thu Jun 15 11:33:35 2023] [::1]:41548 [200]: POST /receiver.php
+[Thu Jun 15 11:33:35 2023] [::1]:41548 Closing
+[Thu Jun 15 11:33:37 2023] [::1]:41554 Accepted
+[Thu Jun 15 11:33:37 2023] [::1]:41554 [200]: POST /receiver.php
+[Thu Jun 15 11:33:37 2023] [::1]:41554 Closing
+[Thu Jun 15 11:33:40 2023] [::1]:41564 Accepted
+[Thu Jun 15 11:33:40 2023] [::1]:41564 [200]: POST /receiver.php
+[Thu Jun 15 11:33:40 2023] [::1]:41564 Closing
+[Thu Jun 15 11:33:41 2023] [::1]:41574 Accepted
+[Thu Jun 15 11:33:41 2023] [::1]:41574 [200]: POST /receiver.php
+[Thu Jun 15 11:33:41 2023] [::1]:41574 Closing
+[Thu Jun 15 11:33:43 2023] [::1]:48274 Accepted
+[Thu Jun 15 11:33:43 2023] [::1]:48274 [200]: POST /receiver.php
+[Thu Jun 15 11:33:43 2023] [::1]:48274 Closing
+[Thu Jun 15 11:33:45 2023] [::1]:48288 Accepted
+[Thu Jun 15 11:33:45 2023] [::1]:48288 [200]: POST /receiver.php
+[Thu Jun 15 11:33:45 2023] [::1]:48288 Closing
+[Thu Jun 15 11:33:47 2023] [::1]:48292 Accepted
+[Thu Jun 15 11:33:47 2023] [::1]:48292 [200]: POST /receiver.php
+[Thu Jun 15 11:33:47 2023] [::1]:48292 Closing
+[Thu Jun 15 11:33:49 2023] [::1]:48300 Accepted
+[Thu Jun 15 11:33:49 2023] [::1]:48300 [200]: POST /receiver.php
+[Thu Jun 15 11:33:49 2023] [::1]:48300 Closing
+[Thu Jun 15 11:33:51 2023] [::1]:48314 Accepted
+[Thu Jun 15 11:33:51 2023] [::1]:48314 [200]: POST /receiver.php
+[Thu Jun 15 11:33:51 2023] [::1]:48314 Closing
+[Thu Jun 15 11:33:53 2023] [::1]:41138 Accepted
+[Thu Jun 15 11:33:53 2023] [::1]:41138 [200]: POST /receiver.php
+[Thu Jun 15 11:33:53 2023] [::1]:41138 Closing
+[Thu Jun 15 11:33:55 2023] [::1]:41142 Accepted
+[Thu Jun 15 11:33:55 2023] [::1]:41142 [200]: POST /receiver.php
+[Thu Jun 15 11:33:55 2023] [::1]:41142 Closing
+[Thu Jun 15 11:33:57 2023] [::1]:41152 Accepted
+[Thu Jun 15 11:33:57 2023] [::1]:41152 [200]: POST /receiver.php
+[Thu Jun 15 11:33:57 2023] [::1]:41152 Closing
+[Thu Jun 15 11:33:59 2023] [::1]:41162 Accepted
+[Thu Jun 15 11:33:59 2023] [::1]:41162 [200]: POST /receiver.php
+[Thu Jun 15 11:33:59 2023] [::1]:41162 Closing
+[Thu Jun 15 11:34:01 2023] [::1]:41164 Accepted
+[Thu Jun 15 11:34:01 2023] [::1]:41164 [200]: POST /receiver.php
+[Thu Jun 15 11:34:01 2023] [::1]:41164 Closing
+[Thu Jun 15 11:34:03 2023] [::1]:34336 Accepted
+[Thu Jun 15 11:34:03 2023] [::1]:34336 [200]: POST /receiver.php
+[Thu Jun 15 11:34:03 2023] [::1]:34336 Closing
+[Thu Jun 15 11:34:05 2023] [::1]:34348 Accepted
+[Thu Jun 15 11:34:05 2023] [::1]:34348 [200]: POST /receiver.php
+[Thu Jun 15 11:34:05 2023] [::1]:34348 Closing
+[Thu Jun 15 11:34:07 2023] [::1]:34354 Accepted
+[Thu Jun 15 11:34:07 2023] [::1]:34354 [200]: POST /receiver.php
+[Thu Jun 15 11:34:07 2023] [::1]:34354 Closing
+[Thu Jun 15 11:34:09 2023] [::1]:34360 Accepted
+[Thu Jun 15 11:34:09 2023] [::1]:34360 [200]: POST /receiver.php
+[Thu Jun 15 11:34:09 2023] [::1]:34360 Closing
+[Thu Jun 15 11:34:11 2023] [::1]:34362 Accepted
+[Thu Jun 15 11:34:11 2023] [::1]:34362 [200]: POST /receiver.php
+[Thu Jun 15 11:34:11 2023] [::1]:34362 Closing
+[Thu Jun 15 11:34:13 2023] [::1]:54900 Accepted
+[Thu Jun 15 11:34:13 2023] [::1]:54900 [200]: POST /receiver.php
+[Thu Jun 15 11:34:13 2023] [::1]:54900 Closing
+[Thu Jun 15 11:34:15 2023] [::1]:54908 Accepted
+[Thu Jun 15 11:34:15 2023] [::1]:54908 [200]: POST /receiver.php
+[Thu Jun 15 11:34:15 2023] [::1]:54908 Closing
+[Thu Jun 15 11:34:17 2023] [::1]:54924 Accepted
+[Thu Jun 15 11:34:17 2023] [::1]:54924 [200]: POST /receiver.php
+[Thu Jun 15 11:34:17 2023] [::1]:54924 Closing
+[Thu Jun 15 11:34:19 2023] [::1]:54934 Accepted
+[Thu Jun 15 11:34:19 2023] [::1]:54934 [200]: POST /receiver.php
+[Thu Jun 15 11:34:19 2023] [::1]:54934 Closing
+[Thu Jun 15 11:34:21 2023] [::1]:54944 Accepted
+[Thu Jun 15 11:34:21 2023] [::1]:54944 [200]: POST /receiver.php
+[Thu Jun 15 11:34:21 2023] [::1]:54944 Closing
+[Thu Jun 15 11:34:24 2023] [::1]:55936 Accepted
+[Thu Jun 15 11:34:24 2023] [::1]:55936 [200]: POST /receiver.php
+[Thu Jun 15 11:34:24 2023] [::1]:55936 Closing
+[Thu Jun 15 11:34:25 2023] [::1]:55950 Accepted
+[Thu Jun 15 11:34:25 2023] [::1]:55950 [200]: POST /receiver.php
+[Thu Jun 15 11:34:25 2023] [::1]:55950 Closing
+[Thu Jun 15 11:34:27 2023] [::1]:55954 Accepted
+[Thu Jun 15 11:34:27 2023] [::1]:55954 [200]: POST /receiver.php
+[Thu Jun 15 11:34:27 2023] [::1]:55954 Closing
+[Thu Jun 15 11:34:29 2023] [::1]:55962 Accepted
+[Thu Jun 15 11:34:29 2023] [::1]:55962 [200]: POST /receiver.php
+[Thu Jun 15 11:34:29 2023] [::1]:55962 Closing
+[Thu Jun 15 11:34:31 2023] [::1]:55978 Accepted
+[Thu Jun 15 11:34:31 2023] [::1]:55978 [200]: POST /receiver.php
+[Thu Jun 15 11:34:31 2023] [::1]:55978 Closing
+[Thu Jun 15 11:34:33 2023] [::1]:58538 Accepted
+[Thu Jun 15 11:34:33 2023] [::1]:58538 [200]: POST /receiver.php
+[Thu Jun 15 11:34:33 2023] [::1]:58538 Closing
+[Thu Jun 15 11:34:35 2023] [::1]:58552 Accepted
+[Thu Jun 15 11:34:36 2023] [::1]:58552 [200]: POST /receiver.php
+[Thu Jun 15 11:34:36 2023] [::1]:58552 Closing
+[Thu Jun 15 11:34:37 2023] [::1]:58564 Accepted
+[Thu Jun 15 11:34:37 2023] [::1]:58564 [200]: POST /receiver.php
+[Thu Jun 15 11:34:37 2023] [::1]:58564 Closing
+[Thu Jun 15 11:34:39 2023] [::1]:58568 Accepted
+[Thu Jun 15 11:34:39 2023] [::1]:58568 [200]: POST /receiver.php
+[Thu Jun 15 11:34:39 2023] [::1]:58568 Closing
+[Thu Jun 15 11:34:41 2023] [::1]:58574 Accepted
+[Thu Jun 15 11:34:41 2023] [::1]:58574 [200]: POST /receiver.php
+[Thu Jun 15 11:34:41 2023] [::1]:58574 Closing
+[Thu Jun 15 11:34:43 2023] [::1]:40114 Accepted
+[Thu Jun 15 11:34:43 2023] [::1]:40114 [200]: POST /receiver.php
+[Thu Jun 15 11:34:43 2023] [::1]:40114 Closing
+[Thu Jun 15 11:34:45 2023] [::1]:40126 Accepted
+[Thu Jun 15 11:34:45 2023] [::1]:40126 [200]: POST /receiver.php
+[Thu Jun 15 11:34:45 2023] [::1]:40126 Closing
+[Thu Jun 15 11:34:47 2023] [::1]:40130 Accepted
+[Thu Jun 15 11:34:47 2023] [::1]:40130 [200]: POST /receiver.php
+[Thu Jun 15 11:34:47 2023] [::1]:40130 Closing
+[Thu Jun 15 11:34:49 2023] [::1]:40134 Accepted
+[Thu Jun 15 11:34:49 2023] [::1]:40134 [200]: POST /receiver.php
+[Thu Jun 15 11:34:49 2023] [::1]:40134 Closing
+[Thu Jun 15 11:35:18 2023] [::1]:52222 Accepted
+[Thu Jun 15 11:35:20 2023] [::1]:52222 [302]: GET /
+[Thu Jun 15 11:35:20 2023] [::1]:52222 Closing
+[Thu Jun 15 11:35:21 2023] [::1]:52234 Accepted
+[Thu Jun 15 11:35:21 2023] [::1]:52234 [200]: GET /login.php
+[Thu Jun 15 11:35:21 2023] [::1]:52234 Closing
+[Thu Jun 15 11:35:24 2023] [::1]:46654 Accepted
+[Thu Jun 15 11:35:24 2023] [::1]:46654 [200]: GET /assets/css/bootstrap.min.css
+[Thu Jun 15 11:35:24 2023] [::1]:46654 Closing
+[Thu Jun 15 11:35:24 2023] [::1]:46666 Accepted
+[Thu Jun 15 11:35:24 2023] [::1]:46666 [200]: GET /assets/css/style.css
+[Thu Jun 15 11:35:24 2023] [::1]:46666 Closing
+[Thu Jun 15 11:35:24 2023] [::1]:46680 Accepted
+[Thu Jun 15 11:35:24 2023] [::1]:46680 [404]: GET /favicon.ico - No such file or directory
+[Thu Jun 15 11:35:24 2023] [::1]:46680 Closing
+[Thu Jun 15 11:35:33 2023] [::1]:49894 Accepted
+[Thu Jun 15 11:35:33 2023] [::1]:49894 [200]: POST /login.php
+[Thu Jun 15 11:35:33 2023] [::1]:49894 Closing
+[Thu Jun 15 11:35:34 2023] [::1]:49904 Accepted
+[Thu Jun 15 11:35:34 2023] [::1]:49904 [200]: GET /assets/css/bootstrap.min.css
+[Thu Jun 15 11:35:34 2023] [::1]:49904 Closing
+[Thu Jun 15 11:35:34 2023] [::1]:49920 Accepted
+[Thu Jun 15 11:35:34 2023] [::1]:49920 [200]: GET /assets/css/style.css
+[Thu Jun 15 11:35:34 2023] [::1]:49920 Closing
+[Thu Jun 15 11:35:35 2023] [::1]:49930 Accepted
+[Thu Jun 15 11:35:35 2023] [::1]:49930 [200]: GET /panel.php
+[Thu Jun 15 11:35:35 2023] [::1]:49930 Closing
+[Thu Jun 15 11:35:36 2023] [::1]:49936 Accepted
+[Thu Jun 15 11:35:37 2023] [::1]:49936 [200]: GET /assets/css/bootstrap.min.css
+[Thu Jun 15 11:35:37 2023] [::1]:49936 Closing
+[Thu Jun 15 11:35:37 2023] [::1]:49940 Accepted
+[Thu Jun 15 11:35:37 2023] [::1]:49940 [200]: GET /assets/css/light-theme.min.css
+[Thu Jun 15 11:35:37 2023] [::1]:49940 Closing
+[Thu Jun 15 11:35:37 2023] [::1]:49946 Accepted
+[Thu Jun 15 11:35:37 2023] [::1]:49946 [200]: GET /assets/js/jquery.min.js
+[Thu Jun 15 11:35:37 2023] [::1]:49946 Closing
+[Thu Jun 15 11:35:37 2023] [::1]:49962 Accepted
+[Thu Jun 15 11:35:37 2023] [::1]:49962 [200]: GET /assets/js/script.js
+[Thu Jun 15 11:35:37 2023] [::1]:49962 Closing
+[Thu Jun 15 11:35:37 2023] [::1]:49968 Accepted
+[Thu Jun 15 11:35:37 2023] [::1]:49968 [200]: GET /assets/js/sweetalert2.min.js
+[Thu Jun 15 11:35:37 2023] [::1]:49968 Closing
+[Thu Jun 15 11:35:37 2023] [::1]:49972 Accepted
+[Thu Jun 15 11:35:37 2023] [::1]:49972 [200]: GET /assets/js/growl-notification.min.js
+[Thu Jun 15 11:35:37 2023] [::1]:49972 Closing
+[Thu Jun 15 11:35:39 2023] [::1]:49974 Accepted
+[Thu Jun 15 11:35:40 2023] [::1]:49974 [200]: POST /list_templates.php
+[Thu Jun 15 11:35:40 2023] [::1]:49974 Closing
+[Thu Jun 15 11:35:40 2023] [::1]:49978 Accepted
+[Thu Jun 15 11:35:40 2023] [::1]:49978 [200]: GET /Settings.json
+[Thu Jun 15 11:35:40 2023] [::1]:49978 Closing
+[Thu Jun 15 11:35:42 2023] [::1]:49982 Accepted
+[Thu Jun 15 11:35:42 2023] [::1]:49982 [200]: POST /receiver.php
+[Thu Jun 15 11:35:42 2023] [::1]:49982 Closing
+[Thu Jun 15 11:35:44 2023] [::1]:33660 Accepted
+[Thu Jun 15 11:35:44 2023] [::1]:33660 [200]: POST /receiver.php
+[Thu Jun 15 11:35:44 2023] [::1]:33660 Closing
+[Thu Jun 15 11:35:46 2023] [::1]:33672 Accepted
+[Thu Jun 15 11:35:46 2023] [::1]:33672 [200]: POST /receiver.php
+[Thu Jun 15 11:35:46 2023] [::1]:33672 Closing
+[Thu Jun 15 11:35:48 2023] [::1]:33682 Accepted
+[Thu Jun 15 11:35:48 2023] [::1]:33682 [200]: POST /receiver.php
+[Thu Jun 15 11:35:48 2023] [::1]:33682 Closing
+[Thu Jun 15 11:35:50 2023] [::1]:33694 Accepted
+[Thu Jun 15 11:35:50 2023] [::1]:33694 [200]: POST /receiver.php
+[Thu Jun 15 11:35:50 2023] [::1]:33694 Closing
+[Thu Jun 15 11:35:52 2023] [::1]:33708 Accepted
+[Thu Jun 15 11:35:52 2023] [::1]:33708 [200]: POST /receiver.php
+[Thu Jun 15 11:35:52 2023] [::1]:33708 Closing
+[Thu Jun 15 11:35:54 2023] [::1]:39450 Accepted
+[Thu Jun 15 11:35:54 2023] [::1]:39450 [200]: POST /receiver.php
+[Thu Jun 15 11:35:54 2023] [::1]:39450 Closing
+[Thu Jun 15 11:35:56 2023] [::1]:39460 Accepted
+[Thu Jun 15 11:35:56 2023] [::1]:39460 [200]: POST /receiver.php
+[Thu Jun 15 11:35:56 2023] [::1]:39460 Closing
+[Thu Jun 15 11:35:58 2023] [::1]:39462 Accepted
+[Thu Jun 15 11:35:58 2023] [::1]:39462 [200]: POST /receiver.php
+[Thu Jun 15 11:35:58 2023] [::1]:39462 Closing
+[Thu Jun 15 11:36:00 2023] [::1]:39468 Accepted
+[Thu Jun 15 11:36:00 2023] [::1]:39468 [200]: POST /receiver.php
+[Thu Jun 15 11:36:00 2023] [::1]:39468 Closing
+[Thu Jun 15 11:36:02 2023] [::1]:39478 Accepted
+[Thu Jun 15 11:36:02 2023] [::1]:39478 [200]: POST /receiver.php
+[Thu Jun 15 11:36:02 2023] [::1]:39478 Closing
+[Thu Jun 15 11:36:04 2023] [::1]:41988 Accepted
+[Thu Jun 15 11:36:04 2023] [::1]:41988 [200]: POST /receiver.php
+[Thu Jun 15 11:36:04 2023] [::1]:41988 Closing
