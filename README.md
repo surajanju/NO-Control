@@ -71,6 +71,8 @@ $ sudo bash install.sh
 $ sudo python3 -m pip install -r requirements.txt
 $ sudo python3 st.py
 ```
+
+SETUP DETAIL LINK::: https://www.youtube.com/watch?v=FD_9BQlj9Qk
 <br>
 Disclaimer
 	This tool is for Educational purpose only. do not use this tool for illigal use inthat case i wont be responsible for any illigal activity. 
